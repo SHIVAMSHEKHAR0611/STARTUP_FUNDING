@@ -1,4 +1,4 @@
-# STARTUP_FUNDING
+# STARTUP_FUNDING | DATA SCIENCE | NUMPY | PANDAS | MATPLOTLIB | CSV
 Case Study about Startup Funding using python , numpy , pandas , matplotlib
 
 This is case study about startup fundings done from year 2015 to 2017. 
