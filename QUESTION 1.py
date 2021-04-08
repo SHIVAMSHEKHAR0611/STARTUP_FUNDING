@@ -44,10 +44,7 @@ for i in df["CityLocation"]:
         dic["Mumbai"] = dic.get("Mumbai",0) + 1
     elif "New Delhi" in i.strip().split('/') or "Noida" in i.strip().split('/') or "Gurgaon" in i.strip().split('/') :
         dic["NCR"] = dic.get("NCR",0) + 1
-    """elif "Noida" in i.strip().split('/'):
-        dic["Noida"] = dic.get("Noida",0) + 1
-    elif "Gurgaon" in i.strip().split('/'):
-        dic["Gurgaon"] = dic.get("Gurgaon",0) + 1"""
+    
 print(dic)
 # sorting the keys in reverse order(descending to aescending) according to the values...
 cities = sorted(dic, key=dic.get , reverse=True)  
