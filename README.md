@@ -9,4 +9,4 @@ its description.
 
 The dataset is also provided with the name of ' startup_funding.csv '.
 
-Hope You All Learn From This!!!
+Hope You All Learn Something From This!!!
